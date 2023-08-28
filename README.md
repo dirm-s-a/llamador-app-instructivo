@@ -17,7 +17,7 @@ Para instalar la aplicación "Llamador", sigue estos pasos:
 2) Una vez descargada, sube un archivo JSON con la configuración necesaria. Puedes encontrar un ejemplo de este archivo en el siguiente enlace: 
 
 ```bash
-  https://drive.google.com/drive/folders/18_1MkyvpmDHMPBoNtF1SdLDThG3oRUlT
+  https://drive.google.com/file/d/1BTVMJD4-ordFAuzE906nSiXj8vhCiVoJ/view?usp=sharing
 ```
 Si la información en el archivo JSON es incorrecta y ya has iniciado la aplicación "Llamador", simplemente toca la parte superior derecha  del "Llamador" para reiniciar la solicitud de configuración.
 
