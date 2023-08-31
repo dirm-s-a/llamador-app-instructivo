@@ -26,7 +26,7 @@ Si la información en el archivo JSON es incorrecta y ya has iniciado la aplicac
  https://ubunlog.com/en/how-to-add-and-remove-applications-from-Ubuntu-startup/
 ```
 
-Si no puedes acceder a los enlaces proporcionados, comunícate con Guido Spiritoso para obtener acceso.
+Si no puedes acceder a los enlaces proporcionados, comunícate con Sebastián Ciare para obtener acceso.
 
 Si has seguido correctamente estos pasos y el "Llamador" aún no funciona, considera realizar lo siguiente antes de ponerte en contacto con el desarrollador:
 
@@ -36,4 +36,4 @@ Si has seguido correctamente estos pasos y el "Llamador" aún no funciona, consi
 
 Se recomienda activar el usuario root de SSH para permitir la activación de funciones desde Jenkins.
 
-Cada vez que haya cambios en la aplicación, se informará a Guido Spiritoso y la documentación se actualizará para evitar problemas futuros.
+Cada vez que haya cambios en la aplicación, se informará al departamento de HelpDesk mediante un email y la documentación se actualizará para evitar problemas futuros.
